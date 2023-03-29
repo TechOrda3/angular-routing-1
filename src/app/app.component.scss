@@ -1,0 +1,12 @@
+ul {
+  margin: 0;
+  padding: 16px;
+  list-style-type: none;
+  display: flex;
+  gap: 16px;
+  background: aquamarine;
+}
+
+.active {
+  color: red;
+}
